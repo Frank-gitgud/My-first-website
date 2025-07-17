@@ -1,0 +1,9 @@
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Calibri;
+    border: solid 20px purple;
+    width: 100px;
+    height: 150px;
+    text-align: center;
+}
